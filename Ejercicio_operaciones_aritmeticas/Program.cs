@@ -6,7 +6,12 @@ namespace Ejercicio_operaciones_aritmeticas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double num1, num2, num3;
+            double cuadrado, raizcuadrada, raizcubica;
+            
+
+            
+           
         }
     }
 }
